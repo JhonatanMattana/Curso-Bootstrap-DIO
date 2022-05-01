@@ -1,7 +1,24 @@
+body {
+    font: 20px Ariel, sans-serif;
+}
+
 .img_learn {
     border-radius: 50px;
-    border: 1px solid #5050;
+    border: 1px solid rgba(97, 22, 22, 0);
     width: 40%;
     display: block;
-    margin-right: auto
+    margin: 15px;
+}
+
+.navbar {
+    background-color: rgb(31, 8, 29);
+}
+
+.quem-somos {
+    background-color: aquamarine;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
 }
